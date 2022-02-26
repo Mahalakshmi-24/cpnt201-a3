@@ -6,7 +6,7 @@
 
 * link to github repo : https://github.com/Mahalakshmi-24/cpnt201-a3
 
-* link to github livepage : 
+* link to github livepage : https://mahalakshmi-24.github.io/cpnt201-a3/
 
 ## Code Journal
 
@@ -29,4 +29,8 @@
 * i read some documents about css framework,in my point CSS Framework is collection of stylesheet they are ready use.
   what we need todo is create html page using div,class,id's and we can style them by  using CSS Framework.
 
-  
+## Attributions
+
+* i have probmlem in creating .gitignore file
+
+* Maryam khan helped me and she give me file [remove-node-modules file](https://gist.github.com/maryambkhan/30d15f1162340ee747b86a191c50b8fc)
