@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-activity-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss -i assets/css/input.css -o assets/css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahalakshmi-24/tailwind-activity-template.git"
+  },
+  "author": "Maha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mahalakshmi-24/tailwind-activity-template/issues"
+  },
+  "homepage": "https://github.com/Mahalakshmi-24/tailwind-activity-template#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
